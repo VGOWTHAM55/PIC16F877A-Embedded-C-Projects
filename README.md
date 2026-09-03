@@ -65,11 +65,14 @@ PIC16F877A-Embedded-C-Projects/
 │   └── Timer_Interrupt/
 │
 ├── 08_I2C/
-│   ├── EEPROM_Write/
-│   └── EEPROM_Read/
+│   ├── SDA/
+│   └── SCK/
 │
 ├── 09_SPI/
-│   └── 4x4_Keypad/
+│   └── SCLK/
+|   └── MOSI/
+|   └── MISO/
+|   └── CS/
 │
 └── 10_Sensor_Interface/
     ├── Temperature_Sensor/
